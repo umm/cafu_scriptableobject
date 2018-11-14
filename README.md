@@ -1,4 +1,4 @@
-# CAFU Data
+# CAFU ScriptableObject
 
 ## What
 
@@ -46,7 +46,7 @@ namespace ScriptableObjectSample
 
 ### ScriptableObject を呼び出す
 
-```
+```csharp
 using System.Linq;
 using CAFU.Core;
 using CAFUScriptableObject.Scripts.Domain.UseCase.Interface;
