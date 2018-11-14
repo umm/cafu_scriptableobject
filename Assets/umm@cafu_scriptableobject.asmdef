@@ -1,0 +1,11 @@
+{
+    "name": "umm@cafu_scriptableobject",
+    "references": [
+        "umm@cafu_core@v3",
+        "Zenject"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
