@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using CAFUScriptableObject.Scripts.Domain.UseCase.Interface;
+using CAFU.ScriptableObject.Domain.UseCase.Interface;
 using Zenject;
 
 namespace CAFU.ScriptableObject.Data.Repository
