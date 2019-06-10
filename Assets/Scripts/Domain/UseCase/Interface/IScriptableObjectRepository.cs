@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using CAFU.Core;
 
-namespace CAFUScriptableObject.Scripts.Domain.UseCase.Interface
+namespace CAFU.ScriptableObject.Domain.UseCase.Interface
 {
     public interface IScriptableObjectRepository : IRepository
     {
