@@ -3,7 +3,7 @@ using CAFU.ScriptableObject.Data.DataStore;
 using CAFU.ScriptableObject.Data.Repository;
 using UnityEngine;
 
-namespace CAFU.ScriptableObject.Scripts.Application.Installer
+namespace CAFU.ScriptableObject.Application.Installer
 {
     [CreateAssetMenu(menuName = "Installer/ScriptableObjectInstaller")]
     public class ScriptableObjectInstaller : Zenject.ScriptableObjectInstaller
